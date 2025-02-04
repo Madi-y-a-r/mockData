@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 14 Pro",
+      "description": "The latest iPhone with A16 Bionic chip and ProMotion display.",
+      "price": 1099.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1677144677444-9ab5de19143f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aVBob25lJTIwMTQlMjBQcm98ZW58MHx8MHx8fDA%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S23 Ultra",
+      "description": "High-performance Android smartphone with a powerful camera.",
+      "price": 1199.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1709744722656-9b850470293f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U2Ftc3VuZyUyMEdhbGF4eSUyMFMyMyUyMFVsdHJhfGVufDB8fDB8fHww",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro M2",
+      "description": "Powerful MacBook Pro with M2 chip and Liquid Retina XDR display.",
+      "price": 1999.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1600262300216-f531931b5ab9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFjQm9vayUyMFBybyUyME0yfGVufDB8fDB8fHww",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "Dell XPS 15",
+      "description": "Premium Windows laptop with OLED display and Intel i9 processor.",
+      "price": 1799.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1611258623154-c01feea09b1b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGVsbCUyMFhQUyUyMDE1fGVufDB8fDB8fHww",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Sony WH-1000XM5",
+      "description": "Industry-leading noise-canceling wireless headphones.",
+      "price": 399.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U29ueSUyMFdIJTIwMTAwMFhNNXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Bose QuietComfort 45",
+      "description": "Comfortable noise-canceling headphones with deep bass.",
+      "price": 329.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1563564634211-c82e2019a650?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Qm9zZXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "title": "Apple Watch Series 8",
+      "description": "Advanced smartwatch with health and fitness tracking.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBwbGUlMjBXYXRjaHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "title": "Samsung Galaxy Watch 5",
+      "description": "Smartwatch with Wear OS and advanced fitness features.",
+      "price": 349.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1691439378545-dd6b35ff2f7b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2Ftc3VuZyUyMEdhbGF4eSUyMFdhdGNofGVufDB8fDB8fHww",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "title": "Canon EOS R6",
+      "description": "Professional mirrorless camera with full-frame sensor.",
+      "price": 2499.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2Fub258ZW58MHx8MHx8fDA%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Sony A7 IV",
+      "description": "High-resolution mirrorless camera for professionals.",
+      "price": 2699.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1538531048068-aef582996426?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U29ueSUyMEE3fGVufDB8fDB8fHww",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "title": "GoPro HERO11 Black",
+      "description": "Action camera with 5.3K video and HyperSmooth stabilization.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1604942177421-df466b7410f6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8R29Qcm98ZW58MHx8MHx8fDA%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "title": "DJI Mini 3 Pro",
+      "description": "Compact and powerful drone with 4K camera.",
+      "price": 799.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1578194822327-2b1a9bbd7c3e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8REpJJTIwTWluaXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.7
+    },
+    {
+      "id": 13,
+      "title": "PlayStation 5",
+      "description": "Next-gen gaming console with ultra-fast SSD.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UGxheVN0YXRpb24lMjA1fGVufDB8fDB8fHww",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "title": "Xbox Series X",
+      "description": "Powerful gaming console with 4K gaming support.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8WGJveCUyMFNlcmllcyUyMFh8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 15,
+      "title": "Nintendo Switch OLED",
+      "description": "Handheld gaming console with vibrant OLED display.",
+      "price": 349.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1680007966627-d49ae18dbbae?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmludGVuZG8lMjBTd2l0Y2glMjBPTEVEfGVufDB8fDB8fHww",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "title": "Logitech MX Master 3S",
+      "description": "Premium wireless mouse for productivity and gaming.",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TG9naXRlY2h8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "title": "Razer BlackWidow V4",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 159.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1600186279172-fdbaefd74383?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmF6ZXIlMjBCbGFja1dpZG93fGVufDB8fDB8fHww",
+      "rating": 4.6
+    },
+    {
+      "id": 18,
+      "title": "Samsung 49\" Ultrawide Monitor",
+      "description": "Massive ultrawide monitor for gaming and productivity.",
+      "price": 1299.99,
+      "currency": "USD",
+      "image": "https://plus.unsplash.com/premium_photo-1669380425564-6e1a281a4d30?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2Ftc3VuZyUyME1vbml0b3J8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.7
+    },
+    {
+      "id": 19,
+      "title": "LG OLED C2 55\"",
+      "description": "High-end OLED TV with Dolby Vision and HDMI 2.1.",
+      "price": 1799.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1548524238-a971a4a3b523?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TEd8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.9
+    },
+    {
+      "id": 20,
+      "title": "Amazon Echo Dot (5th Gen)",
+      "description": "Smart speaker with Alexa and improved sound quality.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://images.unsplash.com/photo-1544451256-d79e9e199fa8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QW1hem9uJTIwRWNobyUyMERvdHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.6
+    }
+  ]
+}
